@@ -72,7 +72,7 @@
     	<div class="input-group-prepend">
 		    <span class="input-group-text"> <i class="fa fa-phone"></i> </span>
 		</div>
-		<select class="custom-select" style="max-width: 120px;">
+	    <select id="cars" name="cars">
 		    <option selected="">+94</option>
 		    <option value="1">+95</option>
 		    <option value="2">+96</option>
